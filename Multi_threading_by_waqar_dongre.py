@@ -141,7 +141,7 @@ if __name__ == "__main__":
             break
 
         
-# SQL scripts
+# MySQL scripts
 
 #CREATE SCHEMA `sample_db` ;
 
